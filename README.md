@@ -18,3 +18,15 @@
   - Goals
   - Context
 - Once you've created a storyboard you want to **map your experiences**
+
+## Software Architecture
+
+- Strategic Technical Decisions:
+  - Affect more people
+  - For a longer period of FaceTime-Are difficult to change
+- Quality Constraints
+  - Correctness
+  - Performance
+  - Availability
+  - Scalability
+  - Resistance to errors
